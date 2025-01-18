@@ -23,10 +23,8 @@ This project aims to develop a recommendation system that suggests potential car
 
 📁 Project Structure
 - `app.py`: Flask application file
-- `models/`: Directory containing machine learning model and scaler
 - `templates/`: Directory containing HTML templates
-- `static/`: Directory containing static files
-- `requirements.txt`: File containing project dependencies
+  
 
 💡 Installation
 1. Clone the repository using `git clone`
@@ -35,4 +33,4 @@ This project aims to develop a recommendation system that suggests potential car
 
 
 🙏 Acknowledgments
-- Professor Aditya Dikshit Sir for guidance and mentorship 👨‍🏫
+-  Aditya  Sir for guidance.
